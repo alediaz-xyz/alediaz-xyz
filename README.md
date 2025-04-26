@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alejandro-díaz-sastre-0b0a3b213)
 [![WordPress Badge](https://img.shields.io/badge/WordPress-3b5998?style=flat-square&logo=Wordpress&logoColor=white)](https://alediaz.xyz/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/alediaz.xyz)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCNlqgVY-CaQ2Lgc5xJChaKA)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/@alediaz-xyz?si=k1imkM3px6Ww05mn)
 </div>
 
 
