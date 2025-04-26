@@ -4,8 +4,8 @@
   <h3>Mis redes sociales:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alejandro-díaz-sastre-0b0a3b213)
-[![WordPress Badge](https://img.shields.io/badge/WordPress-3b5998?style=flat-square&logo=Wordpress&logoColor=white)](https://eltallerdealexdevrep.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/alexdevrep)
+[![WordPress Badge](https://img.shields.io/badge/WordPress-3b5998?style=flat-square&logo=Wordpress&logoColor=white)](https://alediaz.xyz/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/alediaz.xyz)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCNlqgVY-CaQ2Lgc5xJChaKA)
 </div>
 
@@ -26,8 +26,8 @@
 ## Mis estadísticas en GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexdevrep&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdevrep&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alediaz-xyz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alediaz-xyz&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <h3 align="left">Tecnologías:</h3>
