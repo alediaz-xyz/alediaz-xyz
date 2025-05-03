@@ -19,7 +19,7 @@
 - ⚡ Fun fact: Tengo un blog de Wordpress sobre electrónica y programación
 - 📫 Puedes contactar conmigo en esta dirección
     ```
-    alexdevrep@gmail.com
+    xyz.alediaz@gmail.com
     ``` 
 
 
